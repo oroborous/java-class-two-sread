@@ -1,6 +1,8 @@
 package edu.wctc;
 
 public class Person {
+    private String lastName;
+    private String zipCode;
     private String firstName;
     private String email;
     private int age;
